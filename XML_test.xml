@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_131" class="java.beans.XMLDecoder">
+ <string>What is 2 + 2?</string>
+ <string>Solve for X: X + 2 = 4</string>
+ <string>What is 6 - 2?</string>
+</java>
